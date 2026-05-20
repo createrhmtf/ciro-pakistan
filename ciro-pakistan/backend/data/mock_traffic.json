@@ -1,0 +1,30 @@
+[
+  {
+    "road_name": "G-10 Main Boulevard, Islamabad",
+    "status": "CONGESTED",
+    "avg_speed_kph": 4.5,
+    "incident": "Minor road inundation",
+    "coordinates": {"lat": 33.6844, "lng": 72.9998}
+  },
+  {
+    "road_name": "Shara-e-Faisal, Karachi",
+    "status": "BLOCKED",
+    "avg_speed_kph": 0.0,
+    "incident": "Protest near Nursery",
+    "coordinates": {"lat": 24.8607, "lng": 67.0011}
+  },
+  {
+    "road_name": "Ferozepur Road, Lahore",
+    "status": "CONGESTED",
+    "avg_speed_kph": 12.0,
+    "incident": "Water logging near Kalma Flyover",
+    "coordinates": {"lat": 31.5204, "lng": 74.3587}
+  },
+  {
+    "road_name": "Khyber Road, Peshawar",
+    "status": "NORMAL",
+    "avg_speed_kph": 48.0,
+    "incident": null,
+    "coordinates": {"lat": 34.0151, "lng": 71.5249}
+  }
+]

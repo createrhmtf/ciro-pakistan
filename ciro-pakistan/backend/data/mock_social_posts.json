@@ -1,0 +1,30 @@
+[
+  {
+    "id": "post-1",
+    "text": "G-10 sector Islamabad main gariyan doob chuki hain, pani garon main dakhil ho raha hai! Please help!",
+    "user": "@islamabad_traffic",
+    "timestamp": "2026-05-20T11:45:00Z",
+    "coordinates": {"lat": 33.6844, "lng": 72.9998}
+  },
+  {
+    "id": "post-2",
+    "text": "کراچی کے صدر علاقے میں شدید آگ لگی ہے، فائربریگیڈ کی فوری ضرورت ہے۔ دکانیں بند ہو رہی ہیں۔",
+    "user": "@karachi_updates",
+    "timestamp": "2026-05-20T11:42:00Z",
+    "coordinates": {"lat": 24.8607, "lng": 67.0011}
+  },
+  {
+    "id": "post-3",
+    "text": "Severe traffic jam on Ferozepur Road Lahore due to heavy rain. Roads flooded completely near Kalma Flyover.",
+    "user": "@lahore_commuter",
+    "timestamp": "2026-05-20T11:38:00Z",
+    "coordinates": {"lat": 31.5204, "lng": 74.3587}
+  },
+  {
+    "id": "post-4",
+    "text": "Extremely hot day in Karachi, people are collapsing near Clifton. Heatstroke warnings should be active.",
+    "user": "@climate_alert_pk",
+    "timestamp": "2026-05-20T11:30:00Z",
+    "coordinates": {"lat": 24.8607, "lng": 67.0011}
+  }
+]

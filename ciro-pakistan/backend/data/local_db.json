@@ -1,0 +1,2771 @@
+{
+  "crises": [
+    {
+      "id": "crisis_419c94",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:10:02.099338Z",
+      "updated_at": "2026-05-20T12:10:02.099360Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_sig_t_retracted",
+      "type": "FLOOD",
+      "status": "RETRACTED",
+      "priority": 1,
+      "title": "Urban Flash Flood \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.699619,
+        "lng": 73.036187
+      },
+      "severity": 4,
+      "confidence": 60.0,
+      "affected_population": 12000,
+      "area_sqkm": 3.2,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T13:02:41.026164Z",
+      "updated_at": "2026-05-20T13:02:41.026180Z",
+      "reasoning": "Detected FLOOD hazard in islamabad with confidence 60.0%. Triggered by report: 'F-7 sector main flood aagya hai, wasa k pipe phatne se. roads blocked hain!'. [Risk Index: Flood High (Precipitation: 0.0mm/hr, Humidity: 10%)] [Risk Index: Fire Elevated (Temp: 39.43\u00b0C, AQI: 50)]",
+      "contradiction_flag": true,
+      "retracted": true,
+      "retracted_reason": "Conflicting field report confirms burst water main",
+      "reclassified_as": "crisis_4fed08",
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_1143fb",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:11:03.727783Z",
+      "updated_at": "2026-05-20T12:11:03.727805Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_87c896",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:11:46.554621Z",
+      "updated_at": "2026-05-20T12:11:46.554642Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_ee3d97",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:12:40.795413Z",
+      "updated_at": "2026-05-20T12:12:40.795435Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_155b4f",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:13:33.698479Z",
+      "updated_at": "2026-05-20T12:13:33.698500Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_e77258",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:16:48.258698Z",
+      "updated_at": "2026-05-20T12:16:48.258719Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_e3c331",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T12:17:38.627672Z",
+      "updated_at": "2026-05-20T12:17:38.627696Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_4fed08",
+      "type": "INFRASTRUCTURE",
+      "status": "ACTIVE",
+      "priority": 3,
+      "title": "Burst Water Main \u2014 F-7, Islamabad",
+      "location": "F-7, Islamabad",
+      "coordinates": {
+        "lat": 33.7215,
+        "lng": 73.0565
+      },
+      "severity": 2,
+      "confidence": 98.0,
+      "affected_population": 500,
+      "area_sqkm": 0.3,
+      "signal_ids": [
+        "sig_test_99"
+      ],
+      "detected_at": "2026-05-20T13:02:41.026067Z",
+      "updated_at": "2026-05-20T13:02:41.026094Z",
+      "reasoning": "WASA engineer confirms 24-inch pipe rupture. No flood active. Water flow redirected. Weather: 39.43\u00b0C, rain 0.0mm/hr.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": true,
+      "reclassified_from": "crisis_sig_t"
+    },
+    {
+      "id": "crisis_1",
+      "type": "FLOOD",
+      "status": "ACTIVE",
+      "priority": 1,
+      "title": "Urban Flash Flood \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "severity": 4,
+      "confidence": 60.0,
+      "affected_population": 12000,
+      "area_sqkm": 3.2,
+      "signal_ids": [
+        "1"
+      ],
+      "detected_at": "2026-05-20T17:03:36.862916Z",
+      "updated_at": "2026-05-20T17:03:36.862950Z",
+      "reasoning": "Detected FLOOD hazard in islamabad with confidence 60.0%. Triggered by report: 'G-10 mein pani bhar gaya hai, gaariyan phans gayi hain'. [Risk Index: Flood High (Precipitation: 0.0mm/hr, Humidity: 82%)]",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_2",
+      "type": "UNKNOWN",
+      "status": "ACTIVE",
+      "priority": 2,
+      "title": "Emergency Alert \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "severity": 3,
+      "confidence": 60.0,
+      "affected_population": 5000,
+      "area_sqkm": 1.0,
+      "signal_ids": [
+        "2"
+      ],
+      "detected_at": "2026-05-20T17:03:36.863245Z",
+      "updated_at": "2026-05-20T17:03:36.863290Z",
+      "reasoning": "Detected UNKNOWN hazard in islamabad with confidence 60.0%. Triggered by report: 'Heavy rainfall alert Islamabad 85mm'.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_3",
+      "type": "UNKNOWN",
+      "status": "ACTIVE",
+      "priority": 2,
+      "title": "Emergency Alert \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.6844,
+        "lng": 73.0479
+      },
+      "severity": 3,
+      "confidence": 60.0,
+      "affected_population": 5000,
+      "area_sqkm": 1.0,
+      "signal_ids": [
+        "3"
+      ],
+      "detected_at": "2026-05-20T17:03:36.863583Z",
+      "updated_at": "2026-05-20T17:03:36.863618Z",
+      "reasoning": "Detected UNKNOWN hazard in islamabad with confidence 60.0%. Triggered by report: 'G-10 Main Boulevard congestion'.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_demo1",
+      "type": "FLOOD",
+      "status": "ACTIVE",
+      "priority": 1,
+      "title": "Urban Flash Flood \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.699619,
+        "lng": 73.036187
+      },
+      "severity": 4,
+      "confidence": 60.0,
+      "affected_population": 12000,
+      "area_sqkm": 3.2,
+      "signal_ids": [
+        "demo1"
+      ],
+      "detected_at": "2026-05-20T17:38:04.122918Z",
+      "updated_at": "2026-05-20T17:38:04.122949Z",
+      "reasoning": "Detected FLOOD hazard in islamabad with confidence 60.0%. Triggered by report: 'G-10 mein pani bhar gaya hai, gaariyan phans gayi hain'. [Risk Index: Flood High (Precipitation: 0.0mm/hr, Humidity: 20%)]",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_demo2",
+      "type": "UNKNOWN",
+      "status": "ACTIVE",
+      "priority": 2,
+      "title": "Emergency Alert \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.699619,
+        "lng": 73.036187
+      },
+      "severity": 3,
+      "confidence": 60.0,
+      "affected_population": 5000,
+      "area_sqkm": 1.0,
+      "signal_ids": [
+        "demo2"
+      ],
+      "detected_at": "2026-05-20T17:38:08.621579Z",
+      "updated_at": "2026-05-20T17:38:08.621608Z",
+      "reasoning": "Detected UNKNOWN hazard in islamabad with confidence 60.0%. Triggered by report: 'Heavy rainfall alert Islamabad 85mm/hr EXTREME'.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_demo3",
+      "type": "UNKNOWN",
+      "status": "ACTIVE",
+      "priority": 2,
+      "title": "Emergency Alert \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.699619,
+        "lng": 73.036187
+      },
+      "severity": 3,
+      "confidence": 60.0,
+      "affected_population": 5000,
+      "area_sqkm": 1.0,
+      "signal_ids": [
+        "demo3"
+      ],
+      "detected_at": "2026-05-20T17:38:10.197746Z",
+      "updated_at": "2026-05-20T17:38:10.197800Z",
+      "reasoning": "Detected UNKNOWN hazard in islamabad with confidence 60.0%. Triggered by report: 'G-10 Main Boulevard congestion speed 4km/h'.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    },
+    {
+      "id": "crisis_demo_",
+      "type": "UNKNOWN",
+      "status": "ACTIVE",
+      "priority": 2,
+      "title": "Emergency Alert \u2014 Islamabad",
+      "location": "Islamabad, Pakistan",
+      "coordinates": {
+        "lat": 33.699619,
+        "lng": 73.036187
+      },
+      "severity": 3,
+      "confidence": 60.0,
+      "affected_population": 5000,
+      "area_sqkm": 1.0,
+      "signal_ids": [
+        "demo_traffic_1"
+      ],
+      "detected_at": "2026-05-20T17:40:02.627118Z",
+      "updated_at": "2026-05-20T17:40:02.627145Z",
+      "reasoning": "Detected UNKNOWN hazard in islamabad with confidence 60.0%. Triggered by report: 'G-10 Main Boulevard \u2014 severe congestion. Speed 4km/h (normal 60km/h). Vehicles stranded.'.",
+      "contradiction_flag": false,
+      "retracted": false,
+      "retracted_reason": null,
+      "reclassified_as": null,
+      "is_reclassification": false,
+      "reclassified_from": null
+    }
+  ],
+  "alerts": [
+    {
+      "id": "act_1402",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:10:03.462827Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-1402",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6823",
+      "crisis_id": "crisis_419c94",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:10:03.466908Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-6823",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6167",
+      "crisis_id": "crisis_419c94",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:10:03.472494Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-6167",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7733",
+      "crisis_id": "crisis_419c94",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:10:03.477627Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-7733",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3953",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:11:05.073771Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-3953",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9355",
+      "crisis_id": "crisis_1143fb",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:11:05.078804Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-9355",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9244",
+      "crisis_id": "crisis_1143fb",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:11:05.084662Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-9244",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3590",
+      "crisis_id": "crisis_1143fb",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:11:05.090599Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-3590",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6898",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:11:49.091202Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-6898",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3329",
+      "crisis_id": "crisis_87c896",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:11:49.097253Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-3329",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7730",
+      "crisis_id": "crisis_87c896",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:11:49.103840Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-7730",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7940",
+      "crisis_id": "crisis_87c896",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:11:49.110460Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-7940",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1081",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:12:46.552000Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-1081",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3568",
+      "crisis_id": "crisis_ee3d97",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:12:46.559907Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-3568",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6413",
+      "crisis_id": "crisis_ee3d97",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:12:46.566725Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-6413",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1332",
+      "crisis_id": "crisis_ee3d97",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:12:46.573900Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-1332",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5143",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:13:37.217956Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-5143",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6128",
+      "crisis_id": "crisis_155b4f",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:13:37.225785Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-6128",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1783",
+      "crisis_id": "crisis_155b4f",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:13:37.234415Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-1783",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4999",
+      "crisis_id": "crisis_155b4f",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:13:37.242589Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-4999",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9950",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:16:51.246065Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-9950",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4943",
+      "crisis_id": "crisis_e77258",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:16:51.255320Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-4943",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7816",
+      "crisis_id": "crisis_e77258",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:16:51.265013Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-7816",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4553",
+      "crisis_id": "crisis_e77258",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:16:51.274036Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-4553",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5559",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T12:17:40.425961Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-5559",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5455",
+      "crisis_id": "crisis_e3c331",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T12:17:40.436206Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-5455",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_8279",
+      "crisis_id": "crisis_e3c331",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T12:17:40.446693Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-8279",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9915",
+      "crisis_id": "crisis_e3c331",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T12:17:40.457529Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-9915",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3333",
+      "crisis_id": "crisis_sig_t_retracted",
+      "type": "RETRACTION",
+      "title": "\u26a0\ufe0f ALERT RETRACTED \u2014 Islamabad, Pakistan Flood Clear",
+      "detail": "WASA inspection confirmed Conflicting field report confirms burst water main. Evacuation order canceled.",
+      "timestamp": "2026-05-20T13:02:43.476920Z",
+      "status": "COMPLETED",
+      "impact": "system",
+      "ticket": "TKT-RETR-2026-3333",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u2705 CORRECTION: Islamabad, Pakistan is not flooded. WASA engineers resolved a water main leakage.",
+      "alert_text_ur": "\u2705 \u062a\u0635\u062d\u06cc\u062d: Islamabad, Pakistan \u0645\u06cc\u06ba \u0633\u06cc\u0644\u0627\u0628 \u06a9\u0627 \u062e\u0637\u0631\u06c1 \u062f\u0648\u0631 \u06c1\u0648 \u06af\u06cc\u0627 \u06c1\u06d2\u06d4 \u0648\u0627\u0633\u0627 \u067e\u0627\u0626\u067e \u0645\u0631\u0645\u062a \u0645\u06a9\u0645\u0644\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7706",
+      "crisis_id": "crisis_4fed08",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to F-7, Islamabad",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 11.483333333333333 mins.",
+      "timestamp": "2026-05-20T13:02:43.493344Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-7706",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to F-7, Islamabad. ETA 11.483333333333333 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba F-7, Islamabad \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9016",
+      "crisis_id": "crisis_4fed08",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 F-7, Islamabad",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T13:02:43.508048Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-9016",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: INFRASTRUCTURE active in F-7, Islamabad. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: F-7, Islamabad \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9967",
+      "crisis_id": "crisis_4fed08",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 5 units.",
+      "timestamp": "2026-05-20T13:02:43.526120Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-9967",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4953",
+      "crisis_id": "crisis_1",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 4 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 2.7 mins.",
+      "timestamp": "2026-05-20T17:03:37.077634Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-4953",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 2.7 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5515",
+      "crisis_id": "crisis_1",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "timestamp": "2026-05-20T17:03:37.098086Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-5515",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "alert_text_ur": "\ud83c\udf0a \u0633\u06cc\u0644\u0627\u0628 \u0627\u0644\u0631\u0679: Islamabad, Pakistan\u06d4 \u062a\u06c1\u06c1 \u062e\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0646\u06a9\u0644\u06cc\u06ba\u06d4 1122 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1816",
+      "crisis_id": "crisis_1",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 120 units.",
+      "timestamp": "2026-05-20T17:03:37.117662Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-1816",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6450",
+      "crisis_id": "crisis_1",
+      "type": "REROUTE",
+      "title": "Traffic Diversion Activated \u2014 Islamabad, Pakistan",
+      "detail": "Traffic rerouted via GT road and local intersections. Clear lanes for ambulances.",
+      "timestamp": "2026-05-20T17:03:37.143763Z",
+      "status": "COMPLETED",
+      "impact": "medium",
+      "ticket": "TKT-RTE-2026-6450",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\udd04 TRAFFIC DIVERSION: Road blockages active. Use alternate routes.",
+      "alert_text_ur": "\ud83d\udd04 \u0679\u0631\u06cc\u0641\u06a9 \u06a9\u0627 \u0631\u062e \u062a\u0628\u062f\u06cc\u0644: \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": [
+        {
+          "from": "Islamabad, Pakistan Main Junction",
+          "to": "Rescue 1122 HQ, Islamabad Diversion Route",
+          "blocked": true
+        }
+      ]
+    },
+    {
+      "id": "act_3200",
+      "crisis_id": "crisis_2",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 2.7 mins.",
+      "timestamp": "2026-05-20T17:03:37.163014Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-3200",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 2.7 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6228",
+      "crisis_id": "crisis_2",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T17:03:37.194631Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-6228",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: Islamabad, Pakistan \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_7648",
+      "crisis_id": "crisis_2",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 50 units.",
+      "timestamp": "2026-05-20T17:03:37.217278Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-7648",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6739",
+      "crisis_id": "crisis_3",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 2.7 mins.",
+      "timestamp": "2026-05-20T17:03:37.244949Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-6739",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 2.7 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1742",
+      "crisis_id": "crisis_3",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T17:03:37.267583Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-1742",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: Islamabad, Pakistan \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5169",
+      "crisis_id": "crisis_3",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 50 units.",
+      "timestamp": "2026-05-20T17:03:37.285269Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-5169",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9769",
+      "crisis_id": "crisis_demo1",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 4 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:38:16.377247Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-9769",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3979",
+      "crisis_id": "crisis_demo1",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "timestamp": "2026-05-20T17:38:16.395691Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-3979",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "alert_text_ur": "\ud83c\udf0a \u0633\u06cc\u0644\u0627\u0628 \u0627\u0644\u0631\u0679: Islamabad, Pakistan\u06d4 \u062a\u06c1\u06c1 \u062e\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0646\u06a9\u0644\u06cc\u06ba\u06d4 1122 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3986",
+      "crisis_id": "crisis_demo1",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 120 units.",
+      "timestamp": "2026-05-20T17:38:16.411850Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-3986",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5123",
+      "crisis_id": "crisis_demo1",
+      "type": "REROUTE",
+      "title": "Traffic Diversion Activated \u2014 Islamabad, Pakistan",
+      "detail": "Traffic rerouted via GT road and local intersections. Clear lanes for ambulances.",
+      "timestamp": "2026-05-20T17:38:16.429053Z",
+      "status": "COMPLETED",
+      "impact": "medium",
+      "ticket": "TKT-RTE-2026-5123",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\udd04 TRAFFIC DIVERSION: Road blockages active. Use alternate routes.",
+      "alert_text_ur": "\ud83d\udd04 \u0679\u0631\u06cc\u0641\u06a9 \u06a9\u0627 \u0631\u062e \u062a\u0628\u062f\u06cc\u0644: \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": [
+        {
+          "from": "Islamabad, Pakistan Main Junction",
+          "to": "Rescue 1122 HQ, Islamabad Diversion Route",
+          "blocked": true
+        }
+      ]
+    },
+    {
+      "id": "act_5266",
+      "crisis_id": "crisis_demo2",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:38:16.448775Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-5266",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1634",
+      "crisis_id": "crisis_demo2",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T17:38:16.462989Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-1634",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: Islamabad, Pakistan \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9170",
+      "crisis_id": "crisis_demo2",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 50 units.",
+      "timestamp": "2026-05-20T17:38:16.476963Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-9170",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9600",
+      "crisis_id": "crisis_demo3",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:38:16.495403Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-9600",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_1389",
+      "crisis_id": "crisis_demo3",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T17:38:16.509714Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-1389",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: Islamabad, Pakistan \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5975",
+      "crisis_id": "crisis_demo3",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 50 units.",
+      "timestamp": "2026-05-20T17:38:16.529303Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-5975",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_5198",
+      "crisis_id": "crisis_demo_",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:40:10.638705Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-5198",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9867",
+      "crisis_id": "crisis_demo_",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "timestamp": "2026-05-20T17:40:10.654597Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-9867",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "alert_text_ur": "\ud83c\udf0a \u0633\u06cc\u0644\u0627\u0628 \u0627\u0644\u0631\u0679: Islamabad, Pakistan\u06d4 \u062a\u06c1\u06c1 \u062e\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0646\u06a9\u0644\u06cc\u06ba\u06d4 1122 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_9167",
+      "crisis_id": "crisis_demo_",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 120 units.",
+      "timestamp": "2026-05-20T17:40:10.673182Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-9167",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4764",
+      "crisis_id": "crisis_demo_",
+      "type": "REROUTE",
+      "title": "Traffic Diversion Activated \u2014 Islamabad, Pakistan",
+      "detail": "Traffic rerouted via GT road and local intersections. Clear lanes for ambulances.",
+      "timestamp": "2026-05-20T17:40:10.696407Z",
+      "status": "COMPLETED",
+      "impact": "medium",
+      "ticket": "TKT-RTE-2026-4764",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\udd04 TRAFFIC DIVERSION: Road blockages active. Use alternate routes.",
+      "alert_text_ur": "\ud83d\udd04 \u0679\u0631\u06cc\u0641\u06a9 \u06a9\u0627 \u0631\u062e \u062a\u0628\u062f\u06cc\u0644: \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": [
+        {
+          "from": "Islamabad, Pakistan Main Junction",
+          "to": "Rescue 1122 HQ, Islamabad Diversion Route",
+          "blocked": true
+        }
+      ]
+    },
+    {
+      "id": "act_9645",
+      "crisis_id": "crisis_demo_",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:40:10.729738Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-9645",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6789",
+      "crisis_id": "crisis_demo_",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "timestamp": "2026-05-20T17:40:10.747151Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-6789",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "alert_text_ur": "\ud83c\udf0a \u0633\u06cc\u0644\u0627\u0628 \u0627\u0644\u0631\u0679: Islamabad, Pakistan\u06d4 \u062a\u06c1\u06c1 \u062e\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0646\u06a9\u0644\u06cc\u06ba\u06d4 1122 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6173",
+      "crisis_id": "crisis_demo_",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 120 units.",
+      "timestamp": "2026-05-20T17:40:10.764793Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-6173",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_8053",
+      "crisis_id": "crisis_demo_",
+      "type": "REROUTE",
+      "title": "Traffic Diversion Activated \u2014 Islamabad, Pakistan",
+      "detail": "Traffic rerouted via GT road and local intersections. Clear lanes for ambulances.",
+      "timestamp": "2026-05-20T17:40:10.778508Z",
+      "status": "COMPLETED",
+      "impact": "medium",
+      "ticket": "TKT-RTE-2026-8053",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\udd04 TRAFFIC DIVERSION: Road blockages active. Use alternate routes.",
+      "alert_text_ur": "\ud83d\udd04 \u0679\u0631\u06cc\u0641\u06a9 \u06a9\u0627 \u0631\u062e \u062a\u0628\u062f\u06cc\u0644: \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": [
+        {
+          "from": "Islamabad, Pakistan Main Junction",
+          "to": "Rescue 1122 HQ, Islamabad Diversion Route",
+          "blocked": true
+        }
+      ]
+    },
+    {
+      "id": "act_2913",
+      "crisis_id": "crisis_demo_",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:40:10.802969Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-2913",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_8736",
+      "crisis_id": "crisis_demo_",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "timestamp": "2026-05-20T17:40:10.823623Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-8736",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udf0a FLOOD ALERT: Islamabad, Pakistan. Evacuate basements. Call 1122.",
+      "alert_text_ur": "\ud83c\udf0a \u0633\u06cc\u0644\u0627\u0628 \u0627\u0644\u0631\u0679: Islamabad, Pakistan\u06d4 \u062a\u06c1\u06c1 \u062e\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0646\u06a9\u0644\u06cc\u06ba\u06d4 1122 \u067e\u0631 \u06a9\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_3407",
+      "crisis_id": "crisis_demo_",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 120 units.",
+      "timestamp": "2026-05-20T17:40:10.843129Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-3407",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_4009",
+      "crisis_id": "crisis_demo_",
+      "type": "REROUTE",
+      "title": "Traffic Diversion Activated \u2014 Islamabad, Pakistan",
+      "detail": "Traffic rerouted via GT road and local intersections. Clear lanes for ambulances.",
+      "timestamp": "2026-05-20T17:40:10.860624Z",
+      "status": "COMPLETED",
+      "impact": "medium",
+      "ticket": "TKT-RTE-2026-4009",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\udd04 TRAFFIC DIVERSION: Road blockages active. Use alternate routes.",
+      "alert_text_ur": "\ud83d\udd04 \u0679\u0631\u06cc\u0641\u06a9 \u06a9\u0627 \u0631\u062e \u062a\u0628\u062f\u06cc\u0644: \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": [
+        {
+          "from": "Islamabad, Pakistan Main Junction",
+          "to": "Rescue 1122 HQ, Islamabad Diversion Route",
+          "blocked": true
+        }
+      ]
+    },
+    {
+      "id": "act_8620",
+      "crisis_id": "crisis_demo_",
+      "type": "DISPATCH",
+      "title": "Emergency Units Mobilized to Islamabad, Pakistan",
+      "detail": "Dispatched 2 ambulances and 0 fire engines from Rescue 1122 HQ, Islamabad. ETA: 4.9 mins.",
+      "timestamp": "2026-05-20T17:40:10.879517Z",
+      "status": "COMPLETED",
+      "impact": "critical",
+      "ticket": "TKT-DISP-2026-8620",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83d\ude80 DISPATCH: Rescue team sent to Islamabad, Pakistan. ETA 4.9 mins.",
+      "alert_text_ur": "\ud83d\ude80 \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u0631\u0648\u0627\u0646\u06c1: \u0627\u0645\u062f\u0627\u062f\u06cc \u0679\u06cc\u0645\u06cc\u06ba Islamabad, Pakistan \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0627\u0646\u06c1 \u06c1\u0648 \u0686\u06a9\u06cc \u06c1\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_8391",
+      "crisis_id": "crisis_demo_",
+      "type": "ALERT",
+      "title": "Public Safety Advisory \u2014 Islamabad, Pakistan",
+      "detail": "Official safety broadcast to residents within 1km. Instructions: \u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "timestamp": "2026-05-20T17:40:10.898473Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-ALRT-2026-8391",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\u26a0\ufe0f EMERGENCY: UNKNOWN active in Islamabad, Pakistan. Avoid area and clear pathways.",
+      "alert_text_ur": "\u26a0\ufe0f \u06c1\u0646\u06af\u0627\u0645\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644: Islamabad, Pakistan \u0645\u06cc\u06ba \u062d\u0627\u062f\u062b\u06c1\u06d4 \u0645\u062a\u0628\u0627\u062f\u0644 \u0631\u0627\u0633\u062a\u06d2 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0631\u06cc\u06ba\u06d4",
+      "reroute_paths": []
+    },
+    {
+      "id": "act_6197",
+      "crisis_id": "crisis_demo_",
+      "type": "NOTIFY",
+      "title": "PIMS Hospital, Islamabad Emergency Ward Activated",
+      "detail": "Reserved trauma beds. Casualty estimates: 50 units.",
+      "timestamp": "2026-05-20T17:40:10.919490Z",
+      "status": "COMPLETED",
+      "impact": "high",
+      "ticket": "TKT-HOSP-2026-6197",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "alert_text_en": "\ud83c\udfe5 HOSPITAL WARNED: PIMS Hospital, Islamabad on high alert.",
+      "alert_text_ur": "\ud83c\udfe5 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0644\u0631\u0679: PIMS Hospital, Islamabad \u06c1\u0646\u06af\u0627\u0645\u06cc \u0648\u0627\u0631\u0688 \u062a\u06cc\u0627\u0631\u06d4",
+      "reroute_paths": []
+    }
+  ],
+  "traces": [
+    {
+      "id": "trace_49bbb8f5",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:07:51.801836Z"
+    },
+    {
+      "id": "trace_b7290db8",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:07:55.077758Z"
+    },
+    {
+      "id": "trace_2fee810c",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:08:40.879642Z"
+    },
+    {
+      "id": "trace_e80333df",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:08:50.915115Z"
+    },
+    {
+      "id": "trace_30b33995",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:08:50.928363Z"
+    },
+    {
+      "id": "trace_3df8cc28",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 0 existing crises.",
+      "timestamp": "2026-05-20T12:08:50.930634Z"
+    },
+    {
+      "id": "trace_77bd6492",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:09:58.450995Z"
+    },
+    {
+      "id": "trace_409a15e1",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:10:00.775135Z"
+    },
+    {
+      "id": "trace_6c81c6f7",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:10:00.784476Z"
+    },
+    {
+      "id": "trace_381a72b7",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 0 existing crises.",
+      "timestamp": "2026-05-20T12:10:00.786761Z"
+    },
+    {
+      "id": "trace_4b7098b2",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:10:02.110468Z"
+    },
+    {
+      "id": "trace_f2fdbdf6",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:10:02.113087Z"
+    },
+    {
+      "id": "trace_7a4cb8ea",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:10:03.456319Z"
+    },
+    {
+      "id": "trace_5e386775",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:10:03.459818Z"
+    },
+    {
+      "id": "trace_c3e564a6",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:10:03.481581Z"
+    },
+    {
+      "id": "trace_d63f2e66",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:10:57.409455Z"
+    },
+    {
+      "id": "trace_db9b2b85",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:11:01.367486Z"
+    },
+    {
+      "id": "trace_a3376bb9",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:11:01.378368Z"
+    },
+    {
+      "id": "trace_a30184a6",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 2 existing crises.",
+      "timestamp": "2026-05-20T12:11:01.382945Z"
+    },
+    {
+      "id": "trace_4cb353d8",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:11:03.742843Z"
+    },
+    {
+      "id": "trace_f162edc3",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:11:03.747333Z"
+    },
+    {
+      "id": "trace_16eef2f8",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:11:05.064446Z"
+    },
+    {
+      "id": "trace_030b24e0",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:11:05.068999Z"
+    },
+    {
+      "id": "trace_eaeaed52",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:11:05.095519Z"
+    },
+    {
+      "id": "trace_10cd903b",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:11:41.525661Z"
+    },
+    {
+      "id": "trace_740cf19a",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:11:45.276157Z"
+    },
+    {
+      "id": "trace_5246890e",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:11:45.288774Z"
+    },
+    {
+      "id": "trace_c1b72676",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 3 existing crises.",
+      "timestamp": "2026-05-20T12:11:45.295056Z"
+    },
+    {
+      "id": "trace_a498b11a",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:11:46.571963Z"
+    },
+    {
+      "id": "trace_2d24ad62",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:11:46.577177Z"
+    },
+    {
+      "id": "trace_6bb607fb",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:11:49.077970Z"
+    },
+    {
+      "id": "trace_69efb1e1",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:11:49.084411Z"
+    },
+    {
+      "id": "trace_508eeade",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:11:49.117105Z"
+    },
+    {
+      "id": "trace_971f1bbe",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:12:33.629928Z"
+    },
+    {
+      "id": "trace_91b4dcd5",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:12:38.161057Z"
+    },
+    {
+      "id": "trace_d727c19a",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:12:38.176389Z"
+    },
+    {
+      "id": "trace_194685bf",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 4 existing crises.",
+      "timestamp": "2026-05-20T12:12:38.183794Z"
+    },
+    {
+      "id": "trace_e2d04a71",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:12:43.673800Z"
+    },
+    {
+      "id": "trace_99025a50",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:12:43.680244Z"
+    },
+    {
+      "id": "trace_9bc3b80f",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:12:46.538478Z"
+    },
+    {
+      "id": "trace_09f17d1f",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:12:46.545274Z"
+    },
+    {
+      "id": "trace_a17b2aaf",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:12:46.582128Z"
+    },
+    {
+      "id": "trace_3152778c",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:13:29.285726Z"
+    },
+    {
+      "id": "trace_81f06b10",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:13:32.393630Z"
+    },
+    {
+      "id": "trace_cd809c4d",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:13:32.408673Z"
+    },
+    {
+      "id": "trace_0e78f9ad",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 5 existing crises.",
+      "timestamp": "2026-05-20T12:13:32.417448Z"
+    },
+    {
+      "id": "trace_1e03dc79",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:13:35.094870Z"
+    },
+    {
+      "id": "trace_7e5d963f",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:13:35.102502Z"
+    },
+    {
+      "id": "trace_278b580d",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:13:37.201326Z"
+    },
+    {
+      "id": "trace_3434a5a9",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:13:37.209288Z"
+    },
+    {
+      "id": "trace_28fcf36a",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:13:37.251458Z"
+    },
+    {
+      "id": "trace_4abf1a87",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:16:43.010400Z"
+    },
+    {
+      "id": "trace_11ebb499",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:16:45.637790Z"
+    },
+    {
+      "id": "trace_953280f1",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:16:46.936367Z"
+    },
+    {
+      "id": "trace_d0c99470",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 6 existing crises.",
+      "timestamp": "2026-05-20T12:16:46.947078Z"
+    },
+    {
+      "id": "trace_90d16ec3",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:16:49.091639Z"
+    },
+    {
+      "id": "trace_832ed490",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:16:49.100580Z"
+    },
+    {
+      "id": "trace_de016761",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:16:51.227760Z"
+    },
+    {
+      "id": "trace_21cc295b",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:16:51.237117Z"
+    },
+    {
+      "id": "trace_9b50e33f",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:16:51.283401Z"
+    },
+    {
+      "id": "trace_66e0dc7e",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T12:17:33.466432Z"
+    },
+    {
+      "id": "trace_79e3840c",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T12:17:36.158611Z"
+    },
+    {
+      "id": "trace_0d89fa6c",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T12:17:37.388923Z"
+    },
+    {
+      "id": "trace_d14f8103",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 7 existing crises.",
+      "timestamp": "2026-05-20T12:17:37.402123Z"
+    },
+    {
+      "id": "trace_02f0cacd",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T12:17:38.891805Z"
+    },
+    {
+      "id": "trace_33d1ebf0",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T12:17:38.902137Z"
+    },
+    {
+      "id": "trace_496e5cb7",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T12:17:40.402516Z"
+    },
+    {
+      "id": "trace_b591419a",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T12:17:40.415465Z"
+    },
+    {
+      "id": "trace_ba7a5ce8",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T12:17:40.468456Z"
+    },
+    {
+      "id": "trace_1ed3850e",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 1 raw emergency reports.",
+      "timestamp": "2026-05-20T13:02:32.530292Z"
+    },
+    {
+      "id": "trace_b6dc63cf",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T13:02:35.149649Z"
+    },
+    {
+      "id": "trace_6cc7fb41",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T13:02:36.747294Z"
+    },
+    {
+      "id": "trace_ac07e1e4",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 1 signals against 8 existing crises.",
+      "timestamp": "2026-05-20T13:02:36.763080Z"
+    },
+    {
+      "id": "trace_f5ca0aa9",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 2 situations.",
+      "timestamp": "2026-05-20T13:02:41.366281Z"
+    },
+    {
+      "id": "trace_8f497556",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 2 active situations for asset distribution.",
+      "timestamp": "2026-05-20T13:02:41.382313Z"
+    },
+    {
+      "id": "trace_3821f8c9",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 1 active crisis sites.",
+      "timestamp": "2026-05-20T13:02:43.445206Z"
+    },
+    {
+      "id": "trace_febc17c6",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 2 crises.",
+      "timestamp": "2026-05-20T13:02:43.460699Z"
+    },
+    {
+      "id": "trace_2ee93d97",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: -1 lives saved.",
+      "timestamp": "2026-05-20T13:02:43.543031Z"
+    },
+    {
+      "id": "trace_9f15a316",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Orchestrator Init",
+      "status": "IN_PROGRESS",
+      "details": "Antigravity orchestrator received 3 multi-source signals.",
+      "timestamp": "2026-05-20T17:03:36.056247Z"
+    },
+    {
+      "id": "trace_04b99d99",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Tool Integration",
+      "status": "COMPLETED",
+      "details": "Weather: heavy monsoon rain (28.5\u00b0C). Traffic congestion index: 0.925. Social hits: 3.",
+      "timestamp": "2026-05-20T17:03:36.747384Z"
+    },
+    {
+      "id": "trace_c7567fa6",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Strategic Plan",
+      "status": "COMPLETED",
+      "details": "Plan: Fuse multi-source signals (social, weather, traffic) \u2192 Detect urban flooding / fire / infrastructure clusters \u2192 Allocate rescue + hospitals + reroute traffic \u2192 Simulate tickets, alerts, map updates.",
+      "timestamp": "2026-05-20T17:03:36.765591Z"
+    },
+    {
+      "id": "trace_6a84aef9",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 3 raw emergency reports.",
+      "timestamp": "2026-05-20T17:03:36.782166Z"
+    },
+    {
+      "id": "trace_ba473a55",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T17:03:36.800457Z"
+    },
+    {
+      "id": "trace_479b9fa1",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T17:03:36.820658Z"
+    },
+    {
+      "id": "trace_fc8ccde7",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 3 signals against 9 existing crises.",
+      "timestamp": "2026-05-20T17:03:36.840240Z"
+    },
+    {
+      "id": "trace_1063f187",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 3 situations.",
+      "timestamp": "2026-05-20T17:03:36.936861Z"
+    },
+    {
+      "id": "trace_f44d2ad7",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 3 active situations for asset distribution.",
+      "timestamp": "2026-05-20T17:03:37.011910Z"
+    },
+    {
+      "id": "trace_2165b8bd",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 3 active crisis sites.",
+      "timestamp": "2026-05-20T17:03:37.036689Z"
+    },
+    {
+      "id": "trace_1ddf37ed",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 3 crises.",
+      "timestamp": "2026-05-20T17:03:37.056351Z"
+    },
+    {
+      "id": "trace_c5649ab6",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: 39 lives saved.",
+      "timestamp": "2026-05-20T17:03:37.303006Z"
+    },
+    {
+      "id": "trace_7a0d9b2d",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Pipeline Complete",
+      "status": "COMPLETED",
+      "details": "Detected 3 crisis records, executed 10 simulated actions. Lives saved (sim): 39.",
+      "timestamp": "2026-05-20T17:03:37.364439Z"
+    },
+    {
+      "id": "trace_17819de5",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Orchestrator Init",
+      "status": "IN_PROGRESS",
+      "details": "Antigravity orchestrator received 3 multi-source signals.",
+      "timestamp": "2026-05-20T17:37:39.384903Z"
+    },
+    {
+      "id": "trace_be925700",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Tool Integration",
+      "status": "COMPLETED",
+      "details": "Weather: light rain (32.21\u00b0C). Traffic congestion index: 0.925. Social hits: 3.",
+      "timestamp": "2026-05-20T17:37:41.379184Z"
+    },
+    {
+      "id": "trace_3bcede6d",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Strategic Plan",
+      "status": "COMPLETED",
+      "details": "Plan: Fuse multi-source signals (social, weather, traffic) \u2192 Detect urban flooding / fire / infrastructure clusters \u2192 Allocate rescue + hospitals + reroute traffic \u2192 Simulate tickets, alerts, map updates.",
+      "timestamp": "2026-05-20T17:37:43.042115Z"
+    },
+    {
+      "id": "trace_5b596e6a",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 3 raw emergency reports.",
+      "timestamp": "2026-05-20T17:37:43.056901Z"
+    },
+    {
+      "id": "trace_5eba3572",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T17:37:50.617538Z"
+    },
+    {
+      "id": "trace_0c61d0ac",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T17:37:50.881977Z"
+    },
+    {
+      "id": "trace_0b6b193b",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 3 signals against 12 existing crises.",
+      "timestamp": "2026-05-20T17:37:50.904803Z"
+    },
+    {
+      "id": "trace_5aa5e4bc",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 3 situations.",
+      "timestamp": "2026-05-20T17:38:10.824494Z"
+    },
+    {
+      "id": "trace_eb372953",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 3 active situations for asset distribution.",
+      "timestamp": "2026-05-20T17:38:10.872483Z"
+    },
+    {
+      "id": "trace_a29e1af0",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 3 active crisis sites.",
+      "timestamp": "2026-05-20T17:38:16.352520Z"
+    },
+    {
+      "id": "trace_0e34e311",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 3 crises.",
+      "timestamp": "2026-05-20T17:38:16.363147Z"
+    },
+    {
+      "id": "trace_af3b0f5f",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: 39 lives saved.",
+      "timestamp": "2026-05-20T17:38:16.548041Z"
+    },
+    {
+      "id": "trace_390573b5",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Pipeline Complete",
+      "status": "COMPLETED",
+      "details": "Detected 3 crisis records, executed 10 simulated actions. Lives saved (sim): 39.",
+      "timestamp": "2026-05-20T17:38:16.584931Z"
+    },
+    {
+      "id": "trace_51701499",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Orchestrator Init",
+      "status": "IN_PROGRESS",
+      "details": "Antigravity orchestrator received 4 multi-source signals.",
+      "timestamp": "2026-05-20T17:39:46.402386Z"
+    },
+    {
+      "id": "trace_c6c5f799",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Tool Integration",
+      "status": "COMPLETED",
+      "details": "Weather: light rain (32.21\u00b0C). Traffic congestion index: 0.925. Social hits: 3.",
+      "timestamp": "2026-05-20T17:39:48.266590Z"
+    },
+    {
+      "id": "trace_0088f500",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Strategic Plan",
+      "status": "COMPLETED",
+      "details": "Plan: Fuse multi-source signals (social, weather, traffic) \u2192 Detect urban flooding / fire / infrastructure clusters \u2192 Allocate rescue + hospitals + reroute traffic \u2192 Simulate tickets, alerts, map updates.",
+      "timestamp": "2026-05-20T17:39:48.518986Z"
+    },
+    {
+      "id": "trace_00dfb757",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Ingestion",
+      "status": "IN_PROGRESS",
+      "details": "Ingested 4 raw emergency reports.",
+      "timestamp": "2026-05-20T17:39:48.541880Z"
+    },
+    {
+      "id": "trace_660f3a46",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Context Gathering",
+      "status": "COMPLETED",
+      "details": "Gathered environmental intelligence for cities: ['islamabad']",
+      "timestamp": "2026-05-20T17:39:51.600234Z"
+    },
+    {
+      "id": "trace_3ed091b6",
+      "agent_id": 1,
+      "agent_name": "Signal Fusion Agent",
+      "step": "Signal Fusion",
+      "status": "COMPLETED",
+      "details": "Fusion finished. Contradictions found: False. Summary: Heuristic check parsed Roman Urdu and Urdu script inputs.",
+      "timestamp": "2026-05-20T17:39:51.881165Z"
+    },
+    {
+      "id": "trace_80683b7e",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Clustering",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 4 signals against 15 existing crises.",
+      "timestamp": "2026-05-20T17:39:51.921273Z"
+    },
+    {
+      "id": "trace_a54488bd",
+      "agent_id": 2,
+      "agent_name": "Crisis Detection Agent",
+      "step": "Crisis Verification",
+      "status": "COMPLETED",
+      "details": "Successfully classified 4 situations.",
+      "timestamp": "2026-05-20T17:40:02.976613Z"
+    },
+    {
+      "id": "trace_809a1a14",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Priority Matrix",
+      "status": "IN_PROGRESS",
+      "details": "Reviewing 4 active situations for asset distribution.",
+      "timestamp": "2026-05-20T17:40:02.994486Z"
+    },
+    {
+      "id": "trace_bd0e1184",
+      "agent_id": 3,
+      "agent_name": "Decision & Resource Agent",
+      "step": "Resource Allocation",
+      "status": "COMPLETED",
+      "details": "Created deployment plans for 4 active crisis sites.",
+      "timestamp": "2026-05-20T17:40:10.601445Z"
+    },
+    {
+      "id": "trace_9edb01f3",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Action Generation",
+      "status": "IN_PROGRESS",
+      "details": "Simulating response pipeline execution for 4 crises.",
+      "timestamp": "2026-05-20T17:40:10.621904Z"
+    },
+    {
+      "id": "trace_1337fc0f",
+      "agent_id": 4,
+      "agent_name": "Execution & Simulation Agent",
+      "step": "Simulating Dispatch",
+      "status": "COMPLETED",
+      "details": "Broadcasting finalized alerts. Simulated: 72 lives saved.",
+      "timestamp": "2026-05-20T17:40:10.937555Z"
+    },
+    {
+      "id": "trace_d499cfb8",
+      "agent_id": 0,
+      "agent_name": "Google Antigravity Orchestrator",
+      "step": "Pipeline Complete",
+      "status": "COMPLETED",
+      "details": "Detected 4 crisis records, executed 15 simulated actions. Lives saved (sim): 72.",
+      "timestamp": "2026-05-20T17:40:10.974992Z"
+    }
+  ],
+  "weather": [],
+  "simulations": [
+    {
+      "id": "scenario_a",
+      "name": "Live Incident Orchestration",
+      "before": {
+        "active_crises": 4,
+        "unresponded_alerts": 8,
+        "resources_idle": 90,
+        "estimated_casualties": 82,
+        "response_time_avg_min": 0.0,
+        "coverage_pct": 0.0
+      },
+      "after": {
+        "active_crises": 4,
+        "unresponded_alerts": 0,
+        "resources_idle": 30,
+        "estimated_casualties": 10,
+        "response_time_avg_min": 4.9,
+        "coverage_pct": 95.0,
+        "lives_saved": 72,
+        "resources_deployed": 60
+      }
+    }
+  ],
+  "signals": []
+}

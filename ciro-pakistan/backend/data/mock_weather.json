@@ -1,0 +1,47 @@
+{
+  "islamabad": {
+    "temp": 28.5,
+    "humidity": 82,
+    "wind_speed": 4.5,
+    "precipitation_1h": 42.0,
+    "description": "heavy monsoon rain",
+    "aqi": 45,
+    "pm25": 11.2
+  },
+  "karachi": {
+    "temp": 39.0,
+    "humidity": 65,
+    "wind_speed": 6.2,
+    "precipitation_1h": 0.0,
+    "description": "extreme heatwave, hazy",
+    "aqi": 165,
+    "pm25": 82.4
+  },
+  "lahore": {
+    "temp": 34.0,
+    "humidity": 75,
+    "wind_speed": 3.1,
+    "precipitation_1h": 15.0,
+    "description": "moderate thunderstorms",
+    "aqi": 185,
+    "pm25": 120.8
+  },
+  "peshawar": {
+    "temp": 31.2,
+    "humidity": 50,
+    "wind_speed": 5.8,
+    "precipitation_1h": 0.0,
+    "description": "partly cloudy",
+    "aqi": 95,
+    "pm25": 32.5
+  },
+  "quetta": {
+    "temp": 22.0,
+    "humidity": 30,
+    "wind_speed": 8.1,
+    "precipitation_1h": 0.0,
+    "description": "clear sky, dry",
+    "aqi": 35,
+    "pm25": 8.0
+  }
+}
