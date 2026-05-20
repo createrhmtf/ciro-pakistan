@@ -190,7 +190,3 @@ These are the key backend routes to know:
 - `ciro-pakistan/src/` — React UI, pages, and services
 - `ciro-pakistan/backend/requirements.txt` — Python dependencies
 - `ciro-pakistan/package.json` — frontend dependencies and scripts
-
----
-
-If you want, I can also add a short setup script or `.env.example` file for the backend and frontend.
