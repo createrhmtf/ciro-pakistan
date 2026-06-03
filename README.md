@@ -42,7 +42,7 @@ This repository is designed to run locally for demo, testing, and evaluation.
 2. Navigate to the backend folder:
 
 ```powershell
-cd "f:\Uni Assignment\Project\ciro-pakistan\backend"
+cd "\Project\ciro-pakistan\backend"
 ```
 
 3. Install dependencies:
@@ -77,13 +77,6 @@ The backend uses:
 - `requests`, `httpx` — external HTTP calls
 
 ### Optional backend settings
-
-To enable Google Antigravity or Gemini features, add environment variables:
-
-```powershell
-set GEMINI_API_KEY=your-key
-set ANTIGRAVITY_AGENT=1
-```
 
 If you have Firebase service credentials, set:
 
